@@ -7,6 +7,7 @@
   </p>
   <b>이모지도 써집니다.</b>
   ❤
+ 이모지 사용법은 윈도우버튼과 .을 누르면 사용가능합니다.
 <!--
 **kindrichmuhwan/kindrichmuhwan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
