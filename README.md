@@ -6,8 +6,7 @@
      html에서 사용하던 문법을 이용해 꾸며줄 수 있습니다
   </p>
   <b>이모지도 써집니다.</b>
-  <img src="/README.md/img/중덕.">
-  ❤
+    ❤
  이모지 사용법은 윈도우버튼과 .을 누르면 사용가능합니다.
 <!--
 **kindrichmuhwan/kindrichmuhwan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -23,3 +22,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<img src="img/중덕.">
+
