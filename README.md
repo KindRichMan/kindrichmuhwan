@@ -5,6 +5,9 @@
   <p>
      html에서 사용하던 문법을 이용해 꾸며줄 수 있습니다
   </p>
+ 
+ <img src="/img/중덕.jpg">
+
   <b>이모지도 써집니다.</b>
     ❤
  이모지 사용법은 윈도우버튼과 .을 누르면 사용가능합니다.
@@ -25,4 +28,3 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img src="/img/중덕.jpg">
