@@ -13,7 +13,8 @@
 
 Here are some ideas to get you started:
 
-<img src="/img/중덕.jpg">
+
+
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -24,4 +25,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
+<img src="/img/중덕.jpg">
